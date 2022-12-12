@@ -1,0 +1,18 @@
+9. Join all sentences into a single line (or a single paragraph).
+
+Our book broke new ground 12 years ago by treating networking in a top-down manner—that is, by beginning at the application layer and working its way down
+toward the physical layer. The feedback we received from teachers and students
+alike have confirmed that this top-down approach has many advantages and does
+indeed work well pedagogically. First, it places emphasis on the application layer
+(a “high growth area” in networking). Indeed, many of the recent revolutions in
+computer networking—including the Web, peer-to-peer file sharing, and media
+streaming—have taken place at the application layer. An early emphasis on applicationlayer issues differs from the approaches taken in most other texts, which have only a
+small amount of material on network applications, their requirements, application-layer
+paradigms (e.g., client-server and peer-to-peer), and application programming interfaces. Second, our experience as instructors (and that of many instructors who have
+used this text) has been that teaching networking applications near the beginning of
+the course is a powerful motivational tool. Students are thrilled to learn about how
+networking applications work—applications such as e-mail and the Web, which most
+students use on a daily basis. Once a student understands the applications, the student
+can then understand the network services needed to support these applications. The
+student can then, in turn, examine the various ways in which such services might be
+provided and implemented in the lower layers. Covering applications early thus provides motivation for the remainder of the text
