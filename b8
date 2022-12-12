@@ -1,6 +1,21 @@
-INDENT the following block.
+In Chapter 1, the treatment of access networks has been modernized, and the
+description of the Internet ISP ecosystem has been substantially revised, accounting for the recent emergence of content provider networks, such as Google’s. The
+presentation of packet switching and circuit switching has also been reorganized,
+providing a more topical rather than historical orientation.
 
--   a
--   b
--   c
--   d
+In Chapter 2, Python has replaced Java for the presentation of socket programming. While still explicitly exposing the key ideas behind the socket API, Python
+code is easier to understand for the novice programmer. Moreover, unlike Java,
+Python provides access to raw sockets, enabling students to build a larger variety
+of network applications. Java-based socket programming labs have been
+replaced with corresponding Python labs, and a new Python-based ICMP Ping
+lab has been added. As always, when material is retired from the book, such as
+Java-based socket programming material, it remains available on the book’s
+Companion Web site (see following text).
+
+In Chapter 3, the presentation of one of the reliable data transfer protocols has
+been simplified and a new sidebar on TCP splitting, commonly used to optimize
+the performance of cloud services, has been added.
+
+In Chapter 4, the section on router architectures has been significantly updated,
+reflecting recent developments and practices in the field. Several new integrative
+sidebars involving DNS, BGP, and OSPF are included.
