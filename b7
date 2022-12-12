@@ -1,0 +1,20 @@
+7-1. Increment index 0 to be 1 in lines from 3-5 only.
+
+item[0]
+item[0]
+item[0]
+
+item[0]
+item[0]
+item[0]
+
+7-2. Increment index 0 to be 1,2,3 in lines from 3-5.
+And 2,4,6 in lines from 8-10.
+
+item[0]
+item[0]
+item[0]
+
+item[0]
+item[0]
+item[0]

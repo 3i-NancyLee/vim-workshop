@@ -1,0 +1,4 @@
+3. Remove all occurrences of a certain word in the selected block. (e.g. pivo)
+   kafka.client.id=pivo-auth
+   kafka.client.brokers=localhost:9093
+   kafka.consumer.group-id=pivo-auth-consumer

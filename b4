@@ -1,0 +1,5 @@
+4. Add double quotes around the value in each line.
+
+kafka.client.id=pivo-auth
+kafka.client.brokers=localhost:9093
+kafka.consumer.group-id=pivo-auth-consumer

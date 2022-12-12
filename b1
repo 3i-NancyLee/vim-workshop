@@ -1,0 +1,15 @@
+1-1. Insert a word `export` at the beginning of each line:
+(hint: visual block mode)
+
+kafka.client.id=pivo-auth
+kafka.client.brokers=localhost:9093
+kafka.consumer.group-id=pivo-auth-consumer
+
+
+1-2. Insert a semicolon at the END of each line
+(hint: terminal: $, visual block, apply)
+(hint: vscode: visual line, A)
+
+kafka.client.id=pivo-auth
+kafka.client.brokers=localhost:9093
+kafka.consumer.group-id=pivo-auth-consumer
